@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import com.xiongcz.pojo.User;
-
+/**
+*TEST
+*
+*/
 @Controller
 public class HelloWorld {
 	
